@@ -10,7 +10,7 @@ In this Project we have looked into the application of Finite Automata in genera
 Python
 
 ### Algorithms
-#### For performing Tokenization/lexical analysis
+#### 1) For performing Tokenization/lexical analysis
 <p align="center">
 <img width="500"
 src="https://user-images.githubusercontent.com/52974732/149614549-b6fc1929-f1ae-4a6e-9a62-fb65dc410147.png"<br>
@@ -23,14 +23,14 @@ src="https://user-images.githubusercontent.com/52974732/149614549-b6fc1929-f1ae-
 src="https://user-images.githubusercontent.com/52974732/149614648-9293ab94-a94d-4b16-8f19-78a325baa306.png"<br>
 </p>
 
-#### For performing Pattern Search
+#### 2) For performing Pattern Search
 
 <p align="center">
 <img width="500"
 src="https://user-images.githubusercontent.com/52974732/149614683-896e96b7-b481-4cfc-8dee-efcf967a830a.png"<br>
 </p>
 
-#### For Stop Word Removal
+#### 3) For Stop Word Removal
 <p align="center">
 <img width="500"
 src="https://user-images.githubusercontent.com/52974732/149614705-c9bcb54e-49c0-4b56-8787-92368c29925c.png"<br>
