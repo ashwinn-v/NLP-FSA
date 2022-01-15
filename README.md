@@ -12,37 +12,37 @@ Python
 ### Algorithms
 #### For performing Tokenization/lexical analysis
 <p align="center">
-<img width="700"
+<img width="500"
 src="https://user-images.githubusercontent.com/52974732/149614549-b6fc1929-f1ae-4a6e-9a62-fb65dc410147.png"<br>
 </p>
 
 ##### State-transition table for the finite state machine
 
 <p align="center">
-<img width="700"
+<img width="500"
 src="https://user-images.githubusercontent.com/52974732/149614648-9293ab94-a94d-4b16-8f19-78a325baa306.png"<br>
 </p>
 
 #### For performing Pattern Search
 
 <p align="center">
-<img width="700"
+<img width="500"
 src="https://user-images.githubusercontent.com/52974732/149614683-896e96b7-b481-4cfc-8dee-efcf967a830a.png"<br>
 </p>
 
 #### For Stop Word Removal
 <p align="center">
-<img width="700"
+<img width="500"
 src="https://user-images.githubusercontent.com/52974732/149614705-c9bcb54e-49c0-4b56-8787-92368c29925c.png"<br>
 </p>
 
 <p align="center">
-<img width="700"
+<img width="500"
 src="https://user-images.githubusercontent.com/52974732/149614728-9a19161b-c941-4393-a82a-4d3cb691ae58.png"<br>
 </p>
 ##### FSA designed for Stop Word removal
 <p align="center">
-<img width="700"
+<img width="500"
 src="https://user-images.githubusercontent.com/52974732/149614755-49bc1134-5d51-4e08-b3a3-78d364aa4b33.png"<br>
 </p>
 
